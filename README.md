@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to code and design data-intensive applications on Java/Kotlin and Go
 - 📫 How to reach me: [tg](https://t.me/flyfalldie)
-- 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit)
+<!-- - 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit) -->
 
 <!--
 **kkkooolllyyyaaa/kkkooolllyyyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
