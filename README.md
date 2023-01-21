@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Kolya</h1>
-<h3 align="center">Yandex.Fintech Kotlin Developer</h3>
 <h3 align="center">Third-year student at ITMO University. CSE '24.</h3>
 
-- 🌱 I’m currently learning how to code and design data-intensive applications on Java/Kotlin and Go
+- 🤔 I’m currently working as a Kotlin developer in Yandex.Fintech
+- 🌱 I’m currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
 - 📫 How to reach me: [tg](https://t.me/flyfalldie)
 <!-- - 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit) -->
 
