@@ -1,10 +1,8 @@
 <img width="1688" alt="image" src="https://github.com/kkkooolllyyyaaa/kkkooolllyyyaaa/assets/72232007/5728add9-46e0-45f6-a473-e346089d24e6">
 
-<h1 align="center">Hey 👋, I'm Kolya</h1>
-<h3 align="center">Third-year student at ITMO University. CSE '24.</h3>
-
-- 🤔 I’m currently working as a Kotlin developer in [Yandex.Fintech](https://bank.yandex.ru/)
-- 🌱 I’m currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
+- Kotlin backend developer at [Yandex.Fintech](https://bank.yandex.ru/)
+- Third-year student at ITMO University. CSE '24
+- I'm currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
 - 📫 How to reach me: [tg](https://t.me/flyfalldie)
 <!-- - 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit) -->
 
