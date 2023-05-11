@@ -1,3 +1,5 @@
+<img width="1688" alt="image" src="https://github.com/kkkooolllyyyaaa/kkkooolllyyyaaa/assets/72232007/5728add9-46e0-45f6-a473-e346089d24e6">
+
 <h1 align="center">Hey 👋, I'm Kolya</h1>
 <h3 align="center">Third-year student at ITMO University. CSE '24.</h3>
 
