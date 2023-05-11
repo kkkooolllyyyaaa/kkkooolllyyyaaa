@@ -1,8 +1,8 @@
 <img width="1688" alt="image" src="https://github.com/kkkooolllyyyaaa/kkkooolllyyyaaa/assets/72232007/5728add9-46e0-45f6-a473-e346089d24e6">
 
-- Kotlin backend developer at [Yandex.Fintech](https://bank.yandex.ru/)
-- Third-year student at ITMO University. CSE '24
-- I'm currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
+- 🌱 Kotlin backend developer at [Yandex.Fintech](https://bank.yandex.ru/)
+- 🔭 Third-year student at ITMO University. CSE '24
+- 🤔 I'm currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
 - 📫 How to reach me: [tg](https://t.me/flyfalldie)
 <!-- - 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit) -->
 
