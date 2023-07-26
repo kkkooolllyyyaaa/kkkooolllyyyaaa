@@ -3,7 +3,11 @@
 - 🌱 Kotlin backend developer at [Yandex.Fintech](https://bank.yandex.ru/)
 - 🔭 Third-year student at ITMO University. CSE '24
 - 🤔 I'm currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
-- 📫 How to reach me: [tg](https://t.me/flyfalldie)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/nullnumber1)](https://t.me/flyfalldie)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail&logoColor=white&link=mailto:kolya_cypandin@mail.ru)](mailto:kolya_cypandin@mail.ru)
+![Visitors Badge](https://komarev.com/ghpvc/?username=kkkooolllyyyaaa&style=flat-square&label=Visitors)
+
 <!-- - 😎 My [resume](https://docs.google.com/document/d/1lCYynku07QdFvzJKTspI7WemcYYTJCQy0wMphpMxjIc/edit) -->
 
 <!--
