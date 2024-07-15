@@ -1,6 +1,6 @@
 <img width="1688" alt="image" src="https://github.com/kkkooolllyyyaaa/kkkooolllyyyaaa/assets/72232007/5728add9-46e0-45f6-a473-e346089d24e6">
 
-- 🌱 Java backend developer at [Ozon](https://www.ozon.ru/) Search Runtime team, ex [Yandex.Fintech](https://bank.yandex.ru/)
+- 🌱 Software Engineer at [Avito](https://www.avito.ru/) Smart Navigation (Search) team, ex [Ozon](https://www.ozon.ru/) Search Runtime team, ex [Yandex.Fintech](https://bank.yandex.ru/)
 - 🔭 Fourth-year student at ITMO University. CSE '24
 - 🤔 I'm currently learning how to code and design data-intensive applications on Golang and Java/Kotlin
 - 📫 How to reach me:
